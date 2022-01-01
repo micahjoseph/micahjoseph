@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on machine learning projects.
 - 🤔 I’m looking for help with Machine learning projects.
 - 💬 Ask me about Statistics, Supervised learning Algorithms and core  CS subjects.
-- 📫 How to reach me: [Linkedin - micahjoseph](https://www.linkedin.com/in/micah-joseph-a96b301a5/) , Instagram: micahjoseph11
+- 📫 How to reach me: [Linkedin - micahjoseph](https://www.linkedin.com/in/micah-joseph-a96b301a5/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Wee Woo Wee Woo guy.
 
