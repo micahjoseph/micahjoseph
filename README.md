@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi everyone! I'm Micah Joseph! 👋
 
-<!--
-**micahjoseph/micahjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on Time Series Analysis Project.
+- 🌱 I’m currently learning Unsupervised learning Algorithms, Tableau and Excel.
+- 👯 I’m looking to collaborate on machine learning projects.
+- 🤔 I’m looking for help with Machine learning projects.
+- 💬 Ask me about Statistics, Supervised learning Algorithms and core  CS subjects.
+- 📫 How to reach me: Linkedin
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a Wee Woo Wee Woo guy.
 -->
