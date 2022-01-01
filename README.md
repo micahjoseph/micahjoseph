@@ -11,4 +11,3 @@
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Wee Woo Wee Woo guy.
--->
